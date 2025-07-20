@@ -5,4 +5,3 @@ Zlatopolsky D.M.  Collection of programming problems - St. Petersburg: BHV-Peter
 and others
 
 
-
